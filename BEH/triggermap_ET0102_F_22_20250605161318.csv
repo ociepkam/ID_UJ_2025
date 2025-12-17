@@ -1,0 +1,1624 @@
+trigger_no,trigger_type,acc,n,block_type
+1,fix_point,1,4,training
+2,matrix_1,1,4,training
+3,mask,1,4,training
+4,matrix_2,1,4,training
+5,answer,1,4,training
+6,fix_point,1,4,training
+7,matrix_1,1,4,training
+8,mask,1,4,training
+9,matrix_2,1,4,training
+10,answer,1,4,training
+11,fix_point,1,2,training
+12,matrix_1,1,2,training
+13,mask,1,2,training
+14,matrix_2,1,2,training
+15,answer,1,2,training
+16,fix_point,1,2,training
+17,matrix_1,1,2,training
+18,mask,1,2,training
+19,matrix_2,1,2,training
+20,answer,1,2,training
+21,fix_point,1,6,training
+22,matrix_1,1,6,training
+23,mask,1,6,training
+24,matrix_2,1,6,training
+25,answer,1,6,training
+26,fix_point,1,6,training
+27,matrix_1,1,6,training
+28,mask,1,6,training
+29,matrix_2,1,6,training
+30,answer,1,6,training
+31,fix_point,1,5,experiment
+32,matrix_1,1,5,experiment
+33,mask,1,5,experiment
+34,matrix_2,1,5,experiment
+35,answer,1,5,experiment
+36,fix_point,0,3,experiment
+37,matrix_1,0,3,experiment
+38,mask,0,3,experiment
+39,matrix_2,0,3,experiment
+40,answer,0,3,experiment
+41,fix_point,1,5,experiment
+42,matrix_1,1,5,experiment
+43,mask,1,5,experiment
+44,matrix_2,1,5,experiment
+45,answer,1,5,experiment
+46,fix_point,1,2,experiment
+47,matrix_1,1,2,experiment
+48,mask,1,2,experiment
+49,matrix_2,1,2,experiment
+50,answer,1,2,experiment
+51,fix_point,1,2,experiment
+52,matrix_1,1,2,experiment
+53,mask,1,2,experiment
+54,matrix_2,1,2,experiment
+55,answer,1,2,experiment
+56,fix_point,1,2,experiment
+57,matrix_1,1,2,experiment
+58,mask,1,2,experiment
+59,matrix_2,1,2,experiment
+60,answer,1,2,experiment
+1,fix_point,1,2,experiment
+2,matrix_1,1,2,experiment
+3,mask,1,2,experiment
+4,matrix_2,1,2,experiment
+5,answer,1,2,experiment
+6,fix_point,1,5,experiment
+7,matrix_1,1,5,experiment
+8,mask,1,5,experiment
+9,matrix_2,1,5,experiment
+10,answer,1,5,experiment
+11,fix_point,1,3,experiment
+12,matrix_1,1,3,experiment
+13,mask,1,3,experiment
+14,matrix_2,1,3,experiment
+15,answer,1,3,experiment
+16,fix_point,1,4,experiment
+17,matrix_1,1,4,experiment
+18,mask,1,4,experiment
+19,matrix_2,1,4,experiment
+20,answer,1,4,experiment
+21,fix_point,1,3,experiment
+22,matrix_1,1,3,experiment
+23,mask,1,3,experiment
+24,matrix_2,1,3,experiment
+25,answer,1,3,experiment
+26,fix_point,1,2,experiment
+27,matrix_1,1,2,experiment
+28,mask,1,2,experiment
+29,matrix_2,1,2,experiment
+30,answer,1,2,experiment
+31,fix_point,1,6,experiment
+32,matrix_1,1,6,experiment
+33,mask,1,6,experiment
+34,matrix_2,1,6,experiment
+35,answer,1,6,experiment
+36,fix_point,1,6,experiment
+37,matrix_1,1,6,experiment
+38,mask,1,6,experiment
+39,matrix_2,1,6,experiment
+40,answer,1,6,experiment
+41,fix_point,1,2,experiment
+42,matrix_1,1,2,experiment
+43,mask,1,2,experiment
+44,matrix_2,1,2,experiment
+45,answer,1,2,experiment
+46,fix_point,1,4,experiment
+47,matrix_1,1,4,experiment
+48,mask,1,4,experiment
+49,matrix_2,1,4,experiment
+50,answer,1,4,experiment
+51,fix_point,1,5,experiment
+52,matrix_1,1,5,experiment
+53,mask,1,5,experiment
+54,matrix_2,1,5,experiment
+55,answer,1,5,experiment
+56,fix_point,1,5,experiment
+57,matrix_1,1,5,experiment
+58,mask,1,5,experiment
+59,matrix_2,1,5,experiment
+60,answer,1,5,experiment
+1,fix_point,1,3,experiment
+2,matrix_1,1,3,experiment
+3,mask,1,3,experiment
+4,matrix_2,1,3,experiment
+5,answer,1,3,experiment
+6,fix_point,1,2,experiment
+7,matrix_1,1,2,experiment
+8,mask,1,2,experiment
+9,matrix_2,1,2,experiment
+10,answer,1,2,experiment
+11,fix_point,0,6,experiment
+12,matrix_1,0,6,experiment
+13,mask,0,6,experiment
+14,matrix_2,0,6,experiment
+15,answer,0,6,experiment
+16,fix_point,1,6,experiment
+17,matrix_1,1,6,experiment
+18,mask,1,6,experiment
+19,matrix_2,1,6,experiment
+20,answer,1,6,experiment
+21,fix_point,0,6,experiment
+22,matrix_1,0,6,experiment
+23,mask,0,6,experiment
+24,matrix_2,0,6,experiment
+25,answer,0,6,experiment
+26,fix_point,1,2,experiment
+27,matrix_1,1,2,experiment
+28,mask,1,2,experiment
+29,matrix_2,1,2,experiment
+30,answer,1,2,experiment
+31,fix_point,1,4,experiment
+32,matrix_1,1,4,experiment
+33,mask,1,4,experiment
+34,matrix_2,1,4,experiment
+35,answer,1,4,experiment
+36,fix_point,1,3,experiment
+37,matrix_1,1,3,experiment
+38,mask,1,3,experiment
+39,matrix_2,1,3,experiment
+40,answer,1,3,experiment
+41,fix_point,1,3,experiment
+42,matrix_1,1,3,experiment
+43,mask,1,3,experiment
+44,matrix_2,1,3,experiment
+45,answer,1,3,experiment
+46,fix_point,0,5,experiment
+47,matrix_1,0,5,experiment
+48,mask,0,5,experiment
+49,matrix_2,0,5,experiment
+50,answer,0,5,experiment
+51,fix_point,1,2,experiment
+52,matrix_1,1,2,experiment
+53,mask,1,2,experiment
+54,matrix_2,1,2,experiment
+55,answer,1,2,experiment
+56,fix_point,0,6,experiment
+57,matrix_1,0,6,experiment
+58,mask,0,6,experiment
+59,matrix_2,0,6,experiment
+60,answer,0,6,experiment
+1,fix_point,1,3,experiment
+2,matrix_1,1,3,experiment
+3,mask,1,3,experiment
+4,matrix_2,1,3,experiment
+5,answer,1,3,experiment
+6,fix_point,1,2,experiment
+7,matrix_1,1,2,experiment
+8,mask,1,2,experiment
+9,matrix_2,1,2,experiment
+10,answer,1,2,experiment
+11,fix_point,0,4,experiment
+12,matrix_1,0,4,experiment
+13,mask,0,4,experiment
+14,matrix_2,0,4,experiment
+15,answer,0,4,experiment
+16,fix_point,1,4,experiment
+17,matrix_1,1,4,experiment
+18,mask,1,4,experiment
+19,matrix_2,1,4,experiment
+20,answer,1,4,experiment
+21,fix_point,1,4,experiment
+22,matrix_1,1,4,experiment
+23,mask,1,4,experiment
+24,matrix_2,1,4,experiment
+25,answer,1,4,experiment
+26,fix_point,0,6,experiment
+27,matrix_1,0,6,experiment
+28,mask,0,6,experiment
+29,matrix_2,0,6,experiment
+30,answer,0,6,experiment
+31,fix_point,1,3,experiment
+32,matrix_1,1,3,experiment
+33,mask,1,3,experiment
+34,matrix_2,1,3,experiment
+35,answer,1,3,experiment
+36,fix_point,1,3,experiment
+37,matrix_1,1,3,experiment
+38,mask,1,3,experiment
+39,matrix_2,1,3,experiment
+40,answer,1,3,experiment
+41,fix_point,1,5,experiment
+42,matrix_1,1,5,experiment
+43,mask,1,5,experiment
+44,matrix_2,1,5,experiment
+45,answer,1,5,experiment
+46,fix_point,1,2,experiment
+47,matrix_1,1,2,experiment
+48,mask,1,2,experiment
+49,matrix_2,1,2,experiment
+50,answer,1,2,experiment
+51,fix_point,1,2,experiment
+52,matrix_1,1,2,experiment
+53,mask,1,2,experiment
+54,matrix_2,1,2,experiment
+55,answer,1,2,experiment
+56,fix_point,1,5,experiment
+57,matrix_1,1,5,experiment
+58,mask,1,5,experiment
+59,matrix_2,1,5,experiment
+60,answer,1,5,experiment
+1,fix_point,1,2,experiment
+2,matrix_1,1,2,experiment
+3,mask,1,2,experiment
+4,matrix_2,1,2,experiment
+5,answer,1,2,experiment
+6,fix_point,1,2,experiment
+7,matrix_1,1,2,experiment
+8,mask,1,2,experiment
+9,matrix_2,1,2,experiment
+10,answer,1,2,experiment
+11,fix_point,0,5,experiment
+12,matrix_1,0,5,experiment
+13,mask,0,5,experiment
+14,matrix_2,0,5,experiment
+15,answer,0,5,experiment
+16,fix_point,1,4,experiment
+17,matrix_1,1,4,experiment
+18,mask,1,4,experiment
+19,matrix_2,1,4,experiment
+20,answer,1,4,experiment
+21,fix_point,1,3,experiment
+22,matrix_1,1,3,experiment
+23,mask,1,3,experiment
+24,matrix_2,1,3,experiment
+25,answer,1,3,experiment
+26,fix_point,0,5,experiment
+27,matrix_1,0,5,experiment
+28,mask,0,5,experiment
+29,matrix_2,0,5,experiment
+30,answer,0,5,experiment
+31,fix_point,1,2,experiment
+32,matrix_1,1,2,experiment
+33,mask,1,2,experiment
+34,matrix_2,1,2,experiment
+35,answer,1,2,experiment
+36,fix_point,1,6,experiment
+37,matrix_1,1,6,experiment
+38,mask,1,6,experiment
+39,matrix_2,1,6,experiment
+40,answer,1,6,experiment
+41,fix_point,1,5,experiment
+42,matrix_1,1,5,experiment
+43,mask,1,5,experiment
+44,matrix_2,1,5,experiment
+45,answer,1,5,experiment
+46,fix_point,1,5,experiment
+47,matrix_1,1,5,experiment
+48,mask,1,5,experiment
+49,matrix_2,1,5,experiment
+50,answer,1,5,experiment
+51,fix_point,0,6,experiment
+52,matrix_1,0,6,experiment
+53,mask,0,6,experiment
+54,matrix_2,0,6,experiment
+55,answer,0,6,experiment
+56,fix_point,1,6,experiment
+57,matrix_1,1,6,experiment
+58,mask,1,6,experiment
+59,matrix_2,1,6,experiment
+60,answer,1,6,experiment
+1,fix_point,0,3,experiment
+2,matrix_1,0,3,experiment
+3,mask,0,3,experiment
+4,matrix_2,0,3,experiment
+5,answer,0,3,experiment
+6,fix_point,0,4,experiment
+7,matrix_1,0,4,experiment
+8,mask,0,4,experiment
+9,matrix_2,0,4,experiment
+10,answer,0,4,experiment
+11,fix_point,1,5,experiment
+12,matrix_1,1,5,experiment
+13,mask,1,5,experiment
+14,matrix_2,1,5,experiment
+15,answer,1,5,experiment
+16,fix_point,1,6,experiment
+17,matrix_1,1,6,experiment
+18,mask,1,6,experiment
+19,matrix_2,1,6,experiment
+20,answer,1,6,experiment
+21,fix_point,1,3,experiment
+22,matrix_1,1,3,experiment
+23,mask,1,3,experiment
+24,matrix_2,1,3,experiment
+25,answer,1,3,experiment
+26,fix_point,1,6,experiment
+27,matrix_1,1,6,experiment
+28,mask,1,6,experiment
+29,matrix_2,1,6,experiment
+30,answer,1,6,experiment
+31,fix_point,1,4,experiment
+32,matrix_1,1,4,experiment
+33,mask,1,4,experiment
+34,matrix_2,1,4,experiment
+35,answer,1,4,experiment
+36,fix_point,1,4,experiment
+37,matrix_1,1,4,experiment
+38,mask,1,4,experiment
+39,matrix_2,1,4,experiment
+40,answer,1,4,experiment
+41,fix_point,1,4,experiment
+42,matrix_1,1,4,experiment
+43,mask,1,4,experiment
+44,matrix_2,1,4,experiment
+45,answer,1,4,experiment
+46,fix_point,1,3,experiment
+47,matrix_1,1,3,experiment
+48,mask,1,3,experiment
+49,matrix_2,1,3,experiment
+50,answer,1,3,experiment
+51,fix_point,1,5,experiment
+52,matrix_1,1,5,experiment
+53,mask,1,5,experiment
+54,matrix_2,1,5,experiment
+55,answer,1,5,experiment
+56,fix_point,1,4,experiment
+57,matrix_1,1,4,experiment
+58,mask,1,4,experiment
+59,matrix_2,1,4,experiment
+60,answer,1,4,experiment
+1,fix_point,1,4,experiment
+2,matrix_1,1,4,experiment
+3,mask,1,4,experiment
+4,matrix_2,1,4,experiment
+5,answer,1,4,experiment
+6,fix_point,0,6,experiment
+7,matrix_1,0,6,experiment
+8,mask,0,6,experiment
+9,matrix_2,0,6,experiment
+10,answer,0,6,experiment
+11,fix_point,1,5,experiment
+12,matrix_1,1,5,experiment
+13,mask,1,5,experiment
+14,matrix_2,1,5,experiment
+15,answer,1,5,experiment
+16,fix_point,1,3,experiment
+17,matrix_1,1,3,experiment
+18,mask,1,3,experiment
+19,matrix_2,1,3,experiment
+20,answer,1,3,experiment
+21,fix_point,1,4,experiment
+22,matrix_1,1,4,experiment
+23,mask,1,4,experiment
+24,matrix_2,1,4,experiment
+25,answer,1,4,experiment
+26,fix_point,1,4,experiment
+27,matrix_1,1,4,experiment
+28,mask,1,4,experiment
+29,matrix_2,1,4,experiment
+30,answer,1,4,experiment
+31,fix_point,-1,6,experiment
+32,matrix_1,-1,6,experiment
+33,mask,-1,6,experiment
+34,matrix_2,-1,6,experiment
+35,fix_point,1,6,experiment
+36,matrix_1,1,6,experiment
+37,mask,1,6,experiment
+38,matrix_2,1,6,experiment
+39,answer,1,6,experiment
+40,fix_point,0,3,experiment
+41,matrix_1,0,3,experiment
+42,mask,0,3,experiment
+43,matrix_2,0,3,experiment
+44,answer,0,3,experiment
+# 0:00:00.000045  | info     | TriggerHandler constructed with params: dummy_mode=False,trigger_time=0.003
+# 0:00:00.000098  | info     | Possible triggerTypes registered: ['fix_point', 'matrix_1', 'mask', 'matrix_2', 'answer']
+# 0:00:00.000112  | info     | Dummy mode: False
+# 0:00:00.000445  | info     | Connected to EEG (in constructor)
+# 0:00:00.000475  | info     | Trigger time: 0.003
+# 0:00:00.000496  | info     | Params registered: ['trigger_no', 'trigger_type', 'acc', 'n', 'block_type']
+# 0:00:00.000514  | info     | Trigger limit set to: 60
+# 0:00:38.168232  | info     | Value: 1 sent to EEG.
+# 0:00:38.168260  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:00:38.171613  | info     | Clear message sent to EEG.
+# 0:00:39.689197  | info     | Value: 2 sent to EEG.
+# 0:00:39.689225  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:00:39.692390  | info     | Clear message sent to EEG.
+# 0:00:41.709963  | info     | Value: 3 sent to EEG.
+# 0:00:41.710018  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:00:41.713252  | info     | Clear message sent to EEG.
+# 0:00:43.737594  | info     | Value: 4 sent to EEG.
+# 0:00:43.737653  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:00:43.740809  | info     | Clear message sent to EEG.
+# 0:00:44.959626  | info     | Value: 5 sent to EEG.
+# 0:00:44.959678  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:00:44.963058  | info     | Clear message sent to EEG.
+# 0:00:48.543119  | info     | Value: 6 sent to EEG.
+# 0:00:48.543136  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:00:48.546339  | info     | Clear message sent to EEG.
+# 0:00:50.064138  | info     | Value: 7 sent to EEG.
+# 0:00:50.064177  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:00:50.067338  | info     | Clear message sent to EEG.
+# 0:00:52.084986  | info     | Value: 8 sent to EEG.
+# 0:00:52.085040  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:00:52.088423  | info     | Clear message sent to EEG.
+# 0:00:54.112761  | info     | Value: 9 sent to EEG.
+# 0:00:54.112812  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:00:54.116188  | info     | Clear message sent to EEG.
+# 0:00:56.291639  | info     | Value: 10 sent to EEG.
+# 0:00:56.291684  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:00:56.295064  | info     | Clear message sent to EEG.
+# 0:00:59.547694  | info     | Value: 11 sent to EEG.
+# 0:00:59.547711  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:00:59.550900  | info     | Clear message sent to EEG.
+# 0:01:01.070988  | info     | Value: 12 sent to EEG.
+# 0:01:01.071015  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:01:01.074181  | info     | Clear message sent to EEG.
+# 0:01:03.091853  | info     | Value: 13 sent to EEG.
+# 0:01:03.091910  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:01:03.095094  | info     | Clear message sent to EEG.
+# 0:01:05.117422  | info     | Value: 14 sent to EEG.
+# 0:01:05.117473  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:01:05.120658  | info     | Clear message sent to EEG.
+# 0:01:05.780104  | info     | Value: 15 sent to EEG.
+# 0:01:05.780155  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:01:05.783519  | info     | Clear message sent to EEG.
+# 0:01:09.168022  | info     | Value: 16 sent to EEG.
+# 0:01:09.168040  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:01:09.171394  | info     | Clear message sent to EEG.
+# 0:01:10.688999  | info     | Value: 17 sent to EEG.
+# 0:01:10.689027  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:01:10.692382  | info     | Clear message sent to EEG.
+# 0:01:12.709770  | info     | Value: 18 sent to EEG.
+# 0:01:12.709830  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:01:12.713015  | info     | Clear message sent to EEG.
+# 0:01:14.735170  | info     | Value: 19 sent to EEG.
+# 0:01:14.735229  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:01:14.738595  | info     | Clear message sent to EEG.
+# 0:01:15.842448  | info     | Value: 20 sent to EEG.
+# 0:01:15.842497  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:01:15.845732  | info     | Clear message sent to EEG.
+# 0:01:19.765150  | info     | Value: 21 sent to EEG.
+# 0:01:19.765167  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:01:19.768448  | info     | Clear message sent to EEG.
+# 0:01:21.286084  | info     | Value: 22 sent to EEG.
+# 0:01:21.286109  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:01:21.289273  | info     | Clear message sent to EEG.
+# 0:01:23.307000  | info     | Value: 23 sent to EEG.
+# 0:01:23.307052  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:01:23.310218  | info     | Clear message sent to EEG.
+# 0:01:25.334724  | info     | Value: 24 sent to EEG.
+# 0:01:25.334777  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:01:25.338001  | info     | Clear message sent to EEG.
+# 0:01:26.655723  | info     | Value: 25 sent to EEG.
+# 0:01:26.655754  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:01:26.658964  | info     | Clear message sent to EEG.
+# 0:01:30.908643  | info     | Value: 26 sent to EEG.
+# 0:01:30.908660  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:01:30.911867  | info     | Clear message sent to EEG.
+# 0:01:32.438990  | info     | Value: 27 sent to EEG.
+# 0:01:32.439034  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:01:32.442265  | info     | Clear message sent to EEG.
+# 0:01:34.459656  | info     | Value: 28 sent to EEG.
+# 0:01:34.459705  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:01:34.462888  | info     | Clear message sent to EEG.
+# 0:01:36.487241  | info     | Value: 29 sent to EEG.
+# 0:01:36.487299  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:01:36.490672  | info     | Clear message sent to EEG.
+# 0:01:37.966944  | info     | Value: 30 sent to EEG.
+# 0:01:37.966970  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:01:37.970132  | info     | Clear message sent to EEG.
+# 0:01:56.320468  | info     | Value: 31 sent to EEG.
+# 0:01:56.320485  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:01:56.323833  | info     | Clear message sent to EEG.
+# 0:01:57.841271  | info     | Value: 32 sent to EEG.
+# 0:01:57.841304  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:01:57.844641  | info     | Clear message sent to EEG.
+# 0:01:59.862221  | info     | Value: 33 sent to EEG.
+# 0:01:59.862257  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:01:59.865469  | info     | Clear message sent to EEG.
+# 0:02:01.889950  | info     | Value: 34 sent to EEG.
+# 0:02:01.890011  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:02:01.893206  | info     | Clear message sent to EEG.
+# 0:02:03.078126  | info     | Value: 35 sent to EEG.
+# 0:02:03.078168  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:02:03.081382  | info     | Clear message sent to EEG.
+# 0:02:04.945258  | info     | Value: 36 sent to EEG.
+# 0:02:04.945275  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:02:04.948586  | info     | Clear message sent to EEG.
+# 0:02:06.470645  | info     | Value: 37 sent to EEG.
+# 0:02:06.470657  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:02:06.473838  | info     | Clear message sent to EEG.
+# 0:02:08.494175  | info     | Value: 38 sent to EEG.
+# 0:02:08.494235  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:02:08.497469  | info     | Clear message sent to EEG.
+# 0:02:10.521949  | info     | Value: 39 sent to EEG.
+# 0:02:10.522008  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:02:10.525204  | info     | Clear message sent to EEG.
+# 0:02:11.647888  | info     | Value: 40 sent to EEG.
+# 0:02:11.647920  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:02:11.651092  | info     | Clear message sent to EEG.
+# 0:02:13.980064  | info     | Value: 41 sent to EEG.
+# 0:02:13.980093  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:02:13.983236  | info     | Clear message sent to EEG.
+# 0:02:15.500830  | info     | Value: 42 sent to EEG.
+# 0:02:15.500845  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:02:15.504025  | info     | Clear message sent to EEG.
+# 0:02:17.521880  | info     | Value: 43 sent to EEG.
+# 0:02:17.521930  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:02:17.525127  | info     | Clear message sent to EEG.
+# 0:02:19.549464  | info     | Value: 44 sent to EEG.
+# 0:02:19.549521  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:02:19.552721  | info     | Clear message sent to EEG.
+# 0:02:21.128133  | info     | Value: 45 sent to EEG.
+# 0:02:21.128166  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:02:21.131330  | info     | Clear message sent to EEG.
+# 0:02:22.889724  | info     | Value: 46 sent to EEG.
+# 0:02:22.889751  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:02:22.892998  | info     | Clear message sent to EEG.
+# 0:02:24.410745  | info     | Value: 47 sent to EEG.
+# 0:02:24.410771  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:02:24.413935  | info     | Clear message sent to EEG.
+# 0:02:26.431629  | info     | Value: 48 sent to EEG.
+# 0:02:26.431701  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:02:26.434883  | info     | Clear message sent to EEG.
+# 0:02:28.456956  | info     | Value: 49 sent to EEG.
+# 0:02:28.457014  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:02:28.460349  | info     | Clear message sent to EEG.
+# 0:02:29.492409  | info     | Value: 50 sent to EEG.
+# 0:02:29.492461  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:02:29.495644  | info     | Clear message sent to EEG.
+# 0:02:31.438285  | info     | Value: 51 sent to EEG.
+# 0:02:31.438312  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:02:31.441491  | info     | Clear message sent to EEG.
+# 0:02:32.959242  | info     | Value: 52 sent to EEG.
+# 0:02:32.959266  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:02:32.962445  | info     | Clear message sent to EEG.
+# 0:02:34.980177  | info     | Value: 53 sent to EEG.
+# 0:02:34.980228  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:02:34.983413  | info     | Clear message sent to EEG.
+# 0:02:37.005442  | info     | Value: 54 sent to EEG.
+# 0:02:37.005499  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:02:37.008698  | info     | Clear message sent to EEG.
+# 0:02:38.027757  | info     | Value: 55 sent to EEG.
+# 0:02:38.027805  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:02:38.031178  | info     | Clear message sent to EEG.
+# 0:02:39.060811  | info     | Value: 56 sent to EEG.
+# 0:02:39.060828  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:02:39.064146  | info     | Clear message sent to EEG.
+# 0:02:40.584248  | info     | Value: 57 sent to EEG.
+# 0:02:40.584276  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:02:40.587440  | info     | Clear message sent to EEG.
+# 0:02:42.604820  | info     | Value: 58 sent to EEG.
+# 0:02:42.604865  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:02:42.608048  | info     | Clear message sent to EEG.
+# 0:02:44.630433  | info     | Value: 59 sent to EEG.
+# 0:02:44.630490  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:02:44.633733  | info     | Clear message sent to EEG.
+# 0:02:45.272466  | info     | Value: 60 sent to EEG.
+# 0:02:45.272517  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:02:45.275706  | info     | Clear message sent to EEG.
+# 0:02:46.972930  | info     | Value: 1 sent to EEG.
+# 0:02:46.972947  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:02:46.976302  | info     | Clear message sent to EEG.
+# 0:02:48.491529  | info     | Value: 2 sent to EEG.
+# 0:02:48.491544  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:02:48.494716  | info     | Clear message sent to EEG.
+# 0:02:50.514800  | info     | Value: 3 sent to EEG.
+# 0:02:50.514852  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:02:50.518079  | info     | Clear message sent to EEG.
+# 0:02:52.540261  | info     | Value: 4 sent to EEG.
+# 0:02:52.540321  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:02:52.543513  | info     | Clear message sent to EEG.
+# 0:02:53.693746  | info     | Value: 5 sent to EEG.
+# 0:02:53.693789  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:02:53.696980  | info     | Clear message sent to EEG.
+# 0:02:55.250683  | info     | Value: 6 sent to EEG.
+# 0:02:55.250701  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:02:55.253914  | info     | Clear message sent to EEG.
+# 0:02:56.771679  | info     | Value: 7 sent to EEG.
+# 0:02:56.771716  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:02:56.774880  | info     | Clear message sent to EEG.
+# 0:02:58.792538  | info     | Value: 8 sent to EEG.
+# 0:02:58.792592  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:02:58.795787  | info     | Clear message sent to EEG.
+# 0:03:00.820202  | info     | Value: 9 sent to EEG.
+# 0:03:00.820270  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:03:00.823654  | info     | Clear message sent to EEG.
+# 0:03:02.360599  | info     | Value: 10 sent to EEG.
+# 0:03:02.360641  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:03:02.363808  | info     | Clear message sent to EEG.
+# 0:03:03.549156  | info     | Value: 11 sent to EEG.
+# 0:03:03.549173  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:03:03.552473  | info     | Clear message sent to EEG.
+# 0:03:05.070178  | info     | Value: 12 sent to EEG.
+# 0:03:05.070214  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:03:05.073385  | info     | Clear message sent to EEG.
+# 0:03:07.091067  | info     | Value: 13 sent to EEG.
+# 0:03:07.091125  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:03:07.094308  | info     | Clear message sent to EEG.
+# 0:03:09.116532  | info     | Value: 14 sent to EEG.
+# 0:03:09.116587  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:03:09.119772  | info     | Clear message sent to EEG.
+# 0:03:10.258893  | info     | Value: 15 sent to EEG.
+# 0:03:10.258929  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:03:10.262097  | info     | Clear message sent to EEG.
+# 0:03:12.435768  | info     | Value: 16 sent to EEG.
+# 0:03:12.435785  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:03:12.438963  | info     | Clear message sent to EEG.
+# 0:03:13.959154  | info     | Value: 17 sent to EEG.
+# 0:03:13.959196  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:03:13.962410  | info     | Clear message sent to EEG.
+# 0:03:15.979900  | info     | Value: 18 sent to EEG.
+# 0:03:15.979955  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:03:15.983135  | info     | Clear message sent to EEG.
+# 0:03:18.007686  | info     | Value: 19 sent to EEG.
+# 0:03:18.007737  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:03:18.010925  | info     | Clear message sent to EEG.
+# 0:03:19.672420  | info     | Value: 20 sent to EEG.
+# 0:03:19.672451  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:03:19.675617  | info     | Clear message sent to EEG.
+# 0:03:21.236424  | info     | Value: 21 sent to EEG.
+# 0:03:21.236451  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:03:21.239639  | info     | Clear message sent to EEG.
+# 0:03:22.757540  | info     | Value: 22 sent to EEG.
+# 0:03:22.757577  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:03:22.760947  | info     | Clear message sent to EEG.
+# 0:03:24.778419  | info     | Value: 23 sent to EEG.
+# 0:03:24.778478  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:03:24.781708  | info     | Clear message sent to EEG.
+# 0:03:26.803907  | info     | Value: 24 sent to EEG.
+# 0:03:26.803967  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:03:26.807150  | info     | Clear message sent to EEG.
+# 0:03:27.731150  | info     | Value: 25 sent to EEG.
+# 0:03:27.731189  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:03:27.734407  | info     | Clear message sent to EEG.
+# 0:03:28.799083  | info     | Value: 26 sent to EEG.
+# 0:03:28.799100  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:03:28.802318  | info     | Clear message sent to EEG.
+# 0:03:30.320029  | info     | Value: 27 sent to EEG.
+# 0:03:30.320054  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:03:30.323189  | info     | Clear message sent to EEG.
+# 0:03:32.340953  | info     | Value: 28 sent to EEG.
+# 0:03:32.341012  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:03:32.344400  | info     | Clear message sent to EEG.
+# 0:03:34.366252  | info     | Value: 29 sent to EEG.
+# 0:03:34.366308  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:03:34.369542  | info     | Clear message sent to EEG.
+# 0:03:35.485164  | info     | Value: 30 sent to EEG.
+# 0:03:35.485207  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:03:35.488389  | info     | Clear message sent to EEG.
+# 0:03:37.081277  | info     | Value: 31 sent to EEG.
+# 0:03:37.081295  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:03:37.084587  | info     | Clear message sent to EEG.
+# 0:03:38.604422  | info     | Value: 32 sent to EEG.
+# 0:03:38.604456  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:03:38.607799  | info     | Clear message sent to EEG.
+# 0:03:40.625413  | info     | Value: 33 sent to EEG.
+# 0:03:40.625471  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:03:40.628843  | info     | Clear message sent to EEG.
+# 0:03:42.653375  | info     | Value: 34 sent to EEG.
+# 0:03:42.653424  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:03:42.656614  | info     | Clear message sent to EEG.
+# 0:03:44.037004  | info     | Value: 35 sent to EEG.
+# 0:03:44.037046  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:03:44.040210  | info     | Clear message sent to EEG.
+# 0:03:46.442436  | info     | Value: 36 sent to EEG.
+# 0:03:46.442459  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:03:46.445662  | info     | Clear message sent to EEG.
+# 0:03:47.965683  | info     | Value: 37 sent to EEG.
+# 0:03:47.965711  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:03:47.968989  | info     | Clear message sent to EEG.
+# 0:03:49.986620  | info     | Value: 38 sent to EEG.
+# 0:03:49.986679  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:03:49.989892  | info     | Clear message sent to EEG.
+# 0:03:52.014372  | info     | Value: 39 sent to EEG.
+# 0:03:52.014430  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:03:52.017666  | info     | Clear message sent to EEG.
+# 0:03:53.479015  | info     | Value: 40 sent to EEG.
+# 0:03:53.479065  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:03:53.482228  | info     | Clear message sent to EEG.
+# 0:03:55.187793  | info     | Value: 41 sent to EEG.
+# 0:03:55.187810  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:03:55.191000  | info     | Clear message sent to EEG.
+# 0:03:56.708801  | info     | Value: 42 sent to EEG.
+# 0:03:56.708838  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:03:56.711999  | info     | Clear message sent to EEG.
+# 0:03:58.729560  | info     | Value: 43 sent to EEG.
+# 0:03:58.729620  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:03:58.733048  | info     | Clear message sent to EEG.
+# 0:04:00.755059  | info     | Value: 44 sent to EEG.
+# 0:04:00.755109  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:04:00.758357  | info     | Clear message sent to EEG.
+# 0:04:02.172459  | info     | Value: 45 sent to EEG.
+# 0:04:02.172507  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:04:02.175692  | info     | Clear message sent to EEG.
+# 0:04:04.340549  | info     | Value: 46 sent to EEG.
+# 0:04:04.340577  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:04:04.343752  | info     | Clear message sent to EEG.
+# 0:04:05.861388  | info     | Value: 47 sent to EEG.
+# 0:04:05.861416  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:04:05.864785  | info     | Clear message sent to EEG.
+# 0:04:07.882270  | info     | Value: 48 sent to EEG.
+# 0:04:07.882329  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:04:07.885563  | info     | Clear message sent to EEG.
+# 0:04:09.907796  | info     | Value: 49 sent to EEG.
+# 0:04:09.907850  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:04:09.911036  | info     | Clear message sent to EEG.
+# 0:04:11.398725  | info     | Value: 50 sent to EEG.
+# 0:04:11.398769  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:04:11.401951  | info     | Clear message sent to EEG.
+# 0:04:13.305704  | info     | Value: 51 sent to EEG.
+# 0:04:13.305729  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:04:13.308984  | info     | Clear message sent to EEG.
+# 0:04:14.826707  | info     | Value: 52 sent to EEG.
+# 0:04:14.826735  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:04:14.829910  | info     | Clear message sent to EEG.
+# 0:04:16.847592  | info     | Value: 53 sent to EEG.
+# 0:04:16.847642  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:04:16.850828  | info     | Clear message sent to EEG.
+# 0:04:18.875358  | info     | Value: 54 sent to EEG.
+# 0:04:18.875409  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:04:18.878650  | info     | Clear message sent to EEG.
+# 0:04:19.743461  | info     | Value: 55 sent to EEG.
+# 0:04:19.743511  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:04:19.746882  | info     | Clear message sent to EEG.
+# 0:04:21.979284  | info     | Value: 56 sent to EEG.
+# 0:04:21.979301  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:04:21.982511  | info     | Clear message sent to EEG.
+# 0:04:23.497768  | info     | Value: 57 sent to EEG.
+# 0:04:23.497792  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:04:23.500905  | info     | Clear message sent to EEG.
+# 0:04:25.521154  | info     | Value: 58 sent to EEG.
+# 0:04:25.521203  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:04:25.524585  | info     | Clear message sent to EEG.
+# 0:04:27.548693  | info     | Value: 59 sent to EEG.
+# 0:04:27.548757  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:04:27.552149  | info     | Clear message sent to EEG.
+# 0:04:28.769927  | info     | Value: 60 sent to EEG.
+# 0:04:28.769969  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:04:28.773131  | info     | Clear message sent to EEG.
+# 0:04:30.076480  | info     | Value: 1 sent to EEG.
+# 0:04:30.076506  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:04:30.079862  | info     | Clear message sent to EEG.
+# 0:04:31.597223  | info     | Value: 2 sent to EEG.
+# 0:04:31.597248  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:04:31.600598  | info     | Clear message sent to EEG.
+# 0:04:33.618251  | info     | Value: 3 sent to EEG.
+# 0:04:33.618310  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:04:33.621529  | info     | Clear message sent to EEG.
+# 0:04:35.643765  | info     | Value: 4 sent to EEG.
+# 0:04:35.643824  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:04:35.647009  | info     | Clear message sent to EEG.
+# 0:04:36.799856  | info     | Value: 5 sent to EEG.
+# 0:04:36.799898  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:04:36.803067  | info     | Clear message sent to EEG.
+# 0:04:37.914240  | info     | Value: 6 sent to EEG.
+# 0:04:37.914258  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:04:37.917478  | info     | Clear message sent to EEG.
+# 0:04:39.437685  | info     | Value: 7 sent to EEG.
+# 0:04:39.437739  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:04:39.440885  | info     | Clear message sent to EEG.
+# 0:04:41.458511  | info     | Value: 8 sent to EEG.
+# 0:04:41.458571  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:04:41.461786  | info     | Clear message sent to EEG.
+# 0:04:43.483938  | info     | Value: 9 sent to EEG.
+# 0:04:43.483989  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:04:43.487344  | info     | Clear message sent to EEG.
+# 0:04:44.333918  | info     | Value: 10 sent to EEG.
+# 0:04:44.333957  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:04:44.337160  | info     | Clear message sent to EEG.
+# 0:04:46.060172  | info     | Value: 11 sent to EEG.
+# 0:04:46.060189  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:04:46.063325  | info     | Clear message sent to EEG.
+# 0:04:47.583370  | info     | Value: 12 sent to EEG.
+# 0:04:47.583398  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:04:47.586720  | info     | Clear message sent to EEG.
+# 0:04:49.604186  | info     | Value: 13 sent to EEG.
+# 0:04:49.604216  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:04:49.607383  | info     | Clear message sent to EEG.
+# 0:04:51.631915  | info     | Value: 14 sent to EEG.
+# 0:04:51.631966  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:04:51.635336  | info     | Clear message sent to EEG.
+# 0:04:52.666798  | info     | Value: 15 sent to EEG.
+# 0:04:52.666831  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:04:52.669995  | info     | Clear message sent to EEG.
+# 0:04:54.611095  | info     | Value: 16 sent to EEG.
+# 0:04:54.611126  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:04:54.614329  | info     | Clear message sent to EEG.
+# 0:04:56.131972  | info     | Value: 17 sent to EEG.
+# 0:04:56.132005  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:04:56.135334  | info     | Clear message sent to EEG.
+# 0:04:58.152910  | info     | Value: 18 sent to EEG.
+# 0:04:58.152971  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:04:58.156351  | info     | Clear message sent to EEG.
+# 0:05:00.180653  | info     | Value: 19 sent to EEG.
+# 0:05:00.180737  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:05:00.184067  | info     | Clear message sent to EEG.
+# 0:05:01.764098  | info     | Value: 20 sent to EEG.
+# 0:05:01.764131  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:05:01.767482  | info     | Clear message sent to EEG.
+# 0:05:03.610966  | info     | Value: 21 sent to EEG.
+# 0:05:03.610984  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:05:03.614196  | info     | Clear message sent to EEG.
+# 0:05:05.131937  | info     | Value: 22 sent to EEG.
+# 0:05:05.131964  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:05:05.135302  | info     | Clear message sent to EEG.
+# 0:05:07.152807  | info     | Value: 23 sent to EEG.
+# 0:05:07.152866  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:05:07.156248  | info     | Clear message sent to EEG.
+# 0:05:09.180350  | info     | Value: 24 sent to EEG.
+# 0:05:09.180406  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:05:09.183785  | info     | Clear message sent to EEG.
+# 0:05:11.764313  | info     | Value: 25 sent to EEG.
+# 0:05:11.764347  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:05:11.767515  | info     | Clear message sent to EEG.
+# 0:05:13.393176  | info     | Value: 26 sent to EEG.
+# 0:05:13.393194  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:05:13.396498  | info     | Clear message sent to EEG.
+# 0:05:14.916596  | info     | Value: 27 sent to EEG.
+# 0:05:14.916620  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:05:14.919776  | info     | Clear message sent to EEG.
+# 0:05:16.937139  | info     | Value: 28 sent to EEG.
+# 0:05:16.937187  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:05:16.940565  | info     | Clear message sent to EEG.
+# 0:05:18.962747  | info     | Value: 29 sent to EEG.
+# 0:05:18.962802  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:05:18.965986  | info     | Clear message sent to EEG.
+# 0:05:20.262930  | info     | Value: 30 sent to EEG.
+# 0:05:20.262980  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:05:20.266219  | info     | Clear message sent to EEG.
+# 0:05:22.305094  | info     | Value: 31 sent to EEG.
+# 0:05:22.305121  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:05:22.308381  | info     | Clear message sent to EEG.
+# 0:05:23.826188  | info     | Value: 32 sent to EEG.
+# 0:05:23.826212  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:05:23.829406  | info     | Clear message sent to EEG.
+# 0:05:25.847089  | info     | Value: 33 sent to EEG.
+# 0:05:25.847141  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:05:25.850321  | info     | Clear message sent to EEG.
+# 0:05:27.872586  | info     | Value: 34 sent to EEG.
+# 0:05:27.872644  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:05:27.875830  | info     | Clear message sent to EEG.
+# 0:05:28.832468  | info     | Value: 35 sent to EEG.
+# 0:05:28.832513  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:05:28.835882  | info     | Clear message sent to EEG.
+# 0:05:30.492808  | info     | Value: 36 sent to EEG.
+# 0:05:30.492825  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:05:30.496177  | info     | Clear message sent to EEG.
+# 0:05:32.013659  | info     | Value: 37 sent to EEG.
+# 0:05:32.013688  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:05:32.016984  | info     | Clear message sent to EEG.
+# 0:05:34.034532  | info     | Value: 38 sent to EEG.
+# 0:05:34.034580  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:05:34.037799  | info     | Clear message sent to EEG.
+# 0:05:36.060061  | info     | Value: 39 sent to EEG.
+# 0:05:36.060117  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:05:36.063307  | info     | Clear message sent to EEG.
+# 0:05:37.207347  | info     | Value: 40 sent to EEG.
+# 0:05:37.207397  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:05:37.210592  | info     | Clear message sent to EEG.
+# 0:05:38.802761  | info     | Value: 41 sent to EEG.
+# 0:05:38.802788  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:05:38.806013  | info     | Clear message sent to EEG.
+# 0:05:40.326104  | info     | Value: 42 sent to EEG.
+# 0:05:40.326128  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:05:40.329279  | info     | Clear message sent to EEG.
+# 0:05:42.347035  | info     | Value: 43 sent to EEG.
+# 0:05:42.347092  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:05:42.350269  | info     | Clear message sent to EEG.
+# 0:05:44.372528  | info     | Value: 44 sent to EEG.
+# 0:05:44.372583  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:05:44.375903  | info     | Clear message sent to EEG.
+# 0:05:45.581340  | info     | Value: 45 sent to EEG.
+# 0:05:45.581373  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:05:45.584747  | info     | Clear message sent to EEG.
+# 0:05:47.575962  | info     | Value: 46 sent to EEG.
+# 0:05:47.575980  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:05:47.579150  | info     | Clear message sent to EEG.
+# 0:05:49.096934  | info     | Value: 47 sent to EEG.
+# 0:05:49.096961  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:05:49.100299  | info     | Clear message sent to EEG.
+# 0:05:51.124748  | info     | Value: 48 sent to EEG.
+# 0:05:51.124809  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:05:51.128132  | info     | Clear message sent to EEG.
+# 0:05:53.152466  | info     | Value: 49 sent to EEG.
+# 0:05:53.152523  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:05:53.155900  | info     | Clear message sent to EEG.
+# 0:05:54.708213  | info     | Value: 50 sent to EEG.
+# 0:05:54.708240  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:05:54.711395  | info     | Clear message sent to EEG.
+# 0:05:55.964824  | info     | Value: 51 sent to EEG.
+# 0:05:55.964841  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:05:55.968210  | info     | Clear message sent to EEG.
+# 0:05:57.485620  | info     | Value: 52 sent to EEG.
+# 0:05:57.485636  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:05:57.488979  | info     | Clear message sent to EEG.
+# 0:05:59.506391  | info     | Value: 53 sent to EEG.
+# 0:05:59.506449  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:05:59.509627  | info     | Clear message sent to EEG.
+# 0:06:01.531782  | info     | Value: 54 sent to EEG.
+# 0:06:01.531838  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:06:01.535186  | info     | Clear message sent to EEG.
+# 0:06:02.404342  | info     | Value: 55 sent to EEG.
+# 0:06:02.404392  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:06:02.407573  | info     | Clear message sent to EEG.
+# 0:06:04.186829  | info     | Value: 56 sent to EEG.
+# 0:06:04.186845  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:06:04.190060  | info     | Clear message sent to EEG.
+# 0:06:05.707681  | info     | Value: 57 sent to EEG.
+# 0:06:05.707709  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:06:05.711033  | info     | Clear message sent to EEG.
+# 0:06:07.728816  | info     | Value: 58 sent to EEG.
+# 0:06:07.728876  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:06:07.732253  | info     | Clear message sent to EEG.
+# 0:06:09.756554  | info     | Value: 59 sent to EEG.
+# 0:06:09.756610  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:06:09.759798  | info     | Clear message sent to EEG.
+# 0:06:12.306588  | info     | Value: 60 sent to EEG.
+# 0:06:12.306625  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:06:12.309790  | info     | Clear message sent to EEG.
+# 0:06:13.381161  | info     | Value: 1 sent to EEG.
+# 0:06:13.381188  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:06:13.384547  | info     | Clear message sent to EEG.
+# 0:06:14.902330  | info     | Value: 2 sent to EEG.
+# 0:06:14.902358  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:06:14.905562  | info     | Clear message sent to EEG.
+# 0:06:16.923215  | info     | Value: 3 sent to EEG.
+# 0:06:16.923261  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:06:16.926435  | info     | Clear message sent to EEG.
+# 0:06:18.948728  | info     | Value: 4 sent to EEG.
+# 0:06:18.948787  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:06:18.952126  | info     | Clear message sent to EEG.
+# 0:06:20.498689  | info     | Value: 5 sent to EEG.
+# 0:06:20.498739  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:06:20.501921  | info     | Clear message sent to EEG.
+# 0:06:22.302611  | info     | Value: 6 sent to EEG.
+# 0:06:22.302628  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:06:22.305850  | info     | Clear message sent to EEG.
+# 0:06:23.825694  | info     | Value: 7 sent to EEG.
+# 0:06:23.825728  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:06:23.828790  | info     | Clear message sent to EEG.
+# 0:06:25.846757  | info     | Value: 8 sent to EEG.
+# 0:06:25.846816  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:06:25.850054  | info     | Clear message sent to EEG.
+# 0:06:27.872243  | info     | Value: 9 sent to EEG.
+# 0:06:27.872299  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:06:27.875605  | info     | Clear message sent to EEG.
+# 0:06:29.778188  | info     | Value: 10 sent to EEG.
+# 0:06:29.778228  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:06:29.781447  | info     | Clear message sent to EEG.
+# 0:06:31.455340  | info     | Value: 11 sent to EEG.
+# 0:06:31.455358  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:06:31.458534  | info     | Clear message sent to EEG.
+# 0:06:32.985633  | info     | Value: 12 sent to EEG.
+# 0:06:32.985679  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:06:32.989021  | info     | Clear message sent to EEG.
+# 0:06:35.006380  | info     | Value: 13 sent to EEG.
+# 0:06:35.006437  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:06:35.009665  | info     | Clear message sent to EEG.
+# 0:06:37.031870  | info     | Value: 14 sent to EEG.
+# 0:06:37.031925  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:06:37.035110  | info     | Clear message sent to EEG.
+# 0:06:39.069643  | info     | Value: 15 sent to EEG.
+# 0:06:39.069694  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:06:39.073014  | info     | Clear message sent to EEG.
+# 0:06:40.767754  | info     | Value: 16 sent to EEG.
+# 0:06:40.767771  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:06:40.770940  | info     | Clear message sent to EEG.
+# 0:06:42.291079  | info     | Value: 17 sent to EEG.
+# 0:06:42.291122  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:06:42.294288  | info     | Clear message sent to EEG.
+# 0:06:44.311880  | info     | Value: 18 sent to EEG.
+# 0:06:44.311942  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:06:44.315123  | info     | Clear message sent to EEG.
+# 0:06:46.339476  | info     | Value: 19 sent to EEG.
+# 0:06:46.339533  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:06:46.342902  | info     | Clear message sent to EEG.
+# 0:06:47.095617  | info     | Value: 20 sent to EEG.
+# 0:06:47.095662  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:06:47.099028  | info     | Clear message sent to EEG.
+# 0:06:48.943617  | info     | Value: 21 sent to EEG.
+# 0:06:48.943634  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:06:48.946840  | info     | Clear message sent to EEG.
+# 0:06:50.471148  | info     | Value: 22 sent to EEG.
+# 0:06:50.471160  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:06:50.474268  | info     | Clear message sent to EEG.
+# 0:06:52.492379  | info     | Value: 23 sent to EEG.
+# 0:06:52.492437  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:06:52.495619  | info     | Clear message sent to EEG.
+# 0:06:54.520107  | info     | Value: 24 sent to EEG.
+# 0:06:54.520176  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:06:54.523551  | info     | Clear message sent to EEG.
+# 0:06:55.354853  | info     | Value: 25 sent to EEG.
+# 0:06:55.354905  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:06:55.358088  | info     | Clear message sent to EEG.
+# 0:06:56.776982  | info     | Value: 26 sent to EEG.
+# 0:06:56.777000  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:06:56.780339  | info     | Clear message sent to EEG.
+# 0:06:58.302606  | info     | Value: 27 sent to EEG.
+# 0:06:58.302652  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:06:58.305895  | info     | Clear message sent to EEG.
+# 0:07:00.325574  | info     | Value: 28 sent to EEG.
+# 0:07:00.325620  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:07:00.329033  | info     | Clear message sent to EEG.
+# 0:07:02.353376  | info     | Value: 29 sent to EEG.
+# 0:07:02.353437  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:07:02.356811  | info     | Clear message sent to EEG.
+# 0:07:03.618873  | info     | Value: 30 sent to EEG.
+# 0:07:03.618900  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:07:03.622103  | info     | Clear message sent to EEG.
+# 0:07:05.554643  | info     | Value: 31 sent to EEG.
+# 0:07:05.554660  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:07:05.557881  | info     | Clear message sent to EEG.
+# 0:07:07.075806  | info     | Value: 32 sent to EEG.
+# 0:07:07.075857  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:07:07.079041  | info     | Clear message sent to EEG.
+# 0:07:09.096453  | info     | Value: 33 sent to EEG.
+# 0:07:09.096509  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:07:09.099877  | info     | Clear message sent to EEG.
+# 0:07:11.121795  | info     | Value: 34 sent to EEG.
+# 0:07:11.121854  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:07:11.125063  | info     | Clear message sent to EEG.
+# 0:07:12.186013  | info     | Value: 35 sent to EEG.
+# 0:07:12.186058  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:07:12.189286  | info     | Clear message sent to EEG.
+# 0:07:13.679618  | info     | Value: 36 sent to EEG.
+# 0:07:13.679645  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:07:13.682831  | info     | Clear message sent to EEG.
+# 0:07:15.200823  | info     | Value: 37 sent to EEG.
+# 0:07:15.200876  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:07:15.204209  | info     | Clear message sent to EEG.
+# 0:07:17.221225  | info     | Value: 38 sent to EEG.
+# 0:07:17.221286  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:07:17.224472  | info     | Clear message sent to EEG.
+# 0:07:19.246772  | info     | Value: 39 sent to EEG.
+# 0:07:19.246827  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:07:19.250013  | info     | Clear message sent to EEG.
+# 0:07:20.046094  | info     | Value: 40 sent to EEG.
+# 0:07:20.046137  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:07:20.049329  | info     | Clear message sent to EEG.
+# 0:07:22.156403  | info     | Value: 41 sent to EEG.
+# 0:07:22.156421  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:07:22.159594  | info     | Clear message sent to EEG.
+# 0:07:23.679669  | info     | Value: 42 sent to EEG.
+# 0:07:23.679698  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:07:23.682861  | info     | Clear message sent to EEG.
+# 0:07:25.700536  | info     | Value: 43 sent to EEG.
+# 0:07:25.700589  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:07:25.703775  | info     | Clear message sent to EEG.
+# 0:07:27.728076  | info     | Value: 44 sent to EEG.
+# 0:07:27.728138  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:07:27.731512  | info     | Clear message sent to EEG.
+# 0:07:29.028818  | info     | Value: 45 sent to EEG.
+# 0:07:29.028851  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:07:29.032017  | info     | Clear message sent to EEG.
+# 0:07:30.693196  | info     | Value: 46 sent to EEG.
+# 0:07:30.693214  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:07:30.696577  | info     | Clear message sent to EEG.
+# 0:07:32.214292  | info     | Value: 47 sent to EEG.
+# 0:07:32.214316  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:07:32.217520  | info     | Clear message sent to EEG.
+# 0:07:34.235208  | info     | Value: 48 sent to EEG.
+# 0:07:34.235266  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:07:34.238444  | info     | Clear message sent to EEG.
+# 0:07:36.260514  | info     | Value: 49 sent to EEG.
+# 0:07:36.260573  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:07:36.263917  | info     | Clear message sent to EEG.
+# 0:07:37.333465  | info     | Value: 50 sent to EEG.
+# 0:07:37.333505  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:07:37.336805  | info     | Clear message sent to EEG.
+# 0:07:38.360027  | info     | Value: 51 sent to EEG.
+# 0:07:38.360068  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:07:38.363409  | info     | Clear message sent to EEG.
+# 0:07:39.880921  | info     | Value: 52 sent to EEG.
+# 0:07:39.880956  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:07:39.884111  | info     | Clear message sent to EEG.
+# 0:07:41.901751  | info     | Value: 53 sent to EEG.
+# 0:07:41.901806  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:07:41.905031  | info     | Clear message sent to EEG.
+# 0:07:43.927110  | info     | Value: 54 sent to EEG.
+# 0:07:43.927168  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:07:43.930519  | info     | Clear message sent to EEG.
+# 0:07:45.546690  | info     | Value: 55 sent to EEG.
+# 0:07:45.546731  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:07:45.549914  | info     | Clear message sent to EEG.
+# 0:07:47.359932  | info     | Value: 56 sent to EEG.
+# 0:07:47.359951  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:07:47.363293  | info     | Clear message sent to EEG.
+# 0:07:48.880884  | info     | Value: 57 sent to EEG.
+# 0:07:48.880919  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:07:48.884267  | info     | Clear message sent to EEG.
+# 0:07:50.901691  | info     | Value: 58 sent to EEG.
+# 0:07:50.901745  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:07:50.905048  | info     | Clear message sent to EEG.
+# 0:07:52.929428  | info     | Value: 59 sent to EEG.
+# 0:07:52.929486  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:07:52.932911  | info     | Clear message sent to EEG.
+# 0:07:54.143453  | info     | Value: 60 sent to EEG.
+# 0:07:54.143492  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:07:54.146709  | info     | Clear message sent to EEG.
+# 0:07:55.795084  | info     | Value: 1 sent to EEG.
+# 0:07:55.795101  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:07:55.798324  | info     | Clear message sent to EEG.
+# 0:07:57.318283  | info     | Value: 2 sent to EEG.
+# 0:07:57.318307  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:07:57.321498  | info     | Clear message sent to EEG.
+# 0:07:59.339175  | info     | Value: 3 sent to EEG.
+# 0:07:59.339234  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:07:59.342412  | info     | Clear message sent to EEG.
+# 0:08:01.364700  | info     | Value: 4 sent to EEG.
+# 0:08:01.364757  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:08:01.367950  | info     | Clear message sent to EEG.
+# 0:08:02.740985  | info     | Value: 5 sent to EEG.
+# 0:08:02.741037  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:08:02.744223  | info     | Clear message sent to EEG.
+# 0:08:03.679280  | info     | Value: 6 sent to EEG.
+# 0:08:03.679297  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:08:03.682509  | info     | Clear message sent to EEG.
+# 0:08:05.200289  | info     | Value: 7 sent to EEG.
+# 0:08:05.200327  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:08:05.203490  | info     | Clear message sent to EEG.
+# 0:08:07.221148  | info     | Value: 8 sent to EEG.
+# 0:08:07.221201  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:08:07.224549  | info     | Clear message sent to EEG.
+# 0:08:09.246449  | info     | Value: 9 sent to EEG.
+# 0:08:09.246500  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:08:09.249683  | info     | Clear message sent to EEG.
+# 0:08:10.305364  | info     | Value: 10 sent to EEG.
+# 0:08:10.305411  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:08:10.308771  | info     | Clear message sent to EEG.
+# 0:08:12.019480  | info     | Value: 11 sent to EEG.
+# 0:08:12.019497  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:08:12.022700  | info     | Clear message sent to EEG.
+# 0:08:13.540571  | info     | Value: 12 sent to EEG.
+# 0:08:13.540606  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:08:13.543961  | info     | Clear message sent to EEG.
+# 0:08:15.561314  | info     | Value: 13 sent to EEG.
+# 0:08:15.561372  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:08:15.564777  | info     | Clear message sent to EEG.
+# 0:08:17.589148  | info     | Value: 14 sent to EEG.
+# 0:08:17.589207  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:08:17.592592  | info     | Clear message sent to EEG.
+# 0:08:18.769757  | info     | Value: 15 sent to EEG.
+# 0:08:18.769791  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:08:18.772973  | info     | Clear message sent to EEG.
+# 0:08:20.808826  | info     | Value: 16 sent to EEG.
+# 0:08:20.808844  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:08:20.812117  | info     | Clear message sent to EEG.
+# 0:08:22.332070  | info     | Value: 17 sent to EEG.
+# 0:08:22.332095  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:08:22.335261  | info     | Clear message sent to EEG.
+# 0:08:24.352963  | info     | Value: 18 sent to EEG.
+# 0:08:24.353010  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:08:24.356378  | info     | Clear message sent to EEG.
+# 0:08:26.380508  | info     | Value: 19 sent to EEG.
+# 0:08:26.380567  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:08:26.383950  | info     | Clear message sent to EEG.
+# 0:08:27.735547  | info     | Value: 20 sent to EEG.
+# 0:08:27.735567  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:08:27.738724  | info     | Clear message sent to EEG.
+# 0:08:29.135142  | info     | Value: 21 sent to EEG.
+# 0:08:29.135160  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:08:29.138382  | info     | Clear message sent to EEG.
+# 0:08:30.658189  | info     | Value: 22 sent to EEG.
+# 0:08:30.658210  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:08:30.661375  | info     | Clear message sent to EEG.
+# 0:08:32.679024  | info     | Value: 23 sent to EEG.
+# 0:08:32.679077  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:08:32.682442  | info     | Clear message sent to EEG.
+# 0:08:34.704803  | info     | Value: 24 sent to EEG.
+# 0:08:34.704862  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:08:34.708049  | info     | Clear message sent to EEG.
+# 0:08:35.992692  | info     | Value: 25 sent to EEG.
+# 0:08:35.992725  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:08:35.995869  | info     | Clear message sent to EEG.
+# 0:08:38.130388  | info     | Value: 26 sent to EEG.
+# 0:08:38.130406  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:08:38.133614  | info     | Clear message sent to EEG.
+# 0:08:39.651368  | info     | Value: 27 sent to EEG.
+# 0:08:39.651392  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:08:39.654561  | info     | Clear message sent to EEG.
+# 0:08:41.672266  | info     | Value: 28 sent to EEG.
+# 0:08:41.672327  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:08:41.675513  | info     | Clear message sent to EEG.
+# 0:08:43.699836  | info     | Value: 29 sent to EEG.
+# 0:08:43.699893  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:08:43.703266  | info     | Clear message sent to EEG.
+# 0:08:46.978255  | info     | Value: 30 sent to EEG.
+# 0:08:46.978273  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:08:46.981438  | info     | Clear message sent to EEG.
+# 0:08:48.852592  | info     | Value: 31 sent to EEG.
+# 0:08:48.852609  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:08:48.855795  | info     | Clear message sent to EEG.
+# 0:08:50.373579  | info     | Value: 32 sent to EEG.
+# 0:08:50.373613  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:08:50.376814  | info     | Clear message sent to EEG.
+# 0:08:52.394403  | info     | Value: 33 sent to EEG.
+# 0:08:52.394463  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:08:52.397689  | info     | Clear message sent to EEG.
+# 0:08:54.419938  | info     | Value: 34 sent to EEG.
+# 0:08:54.419995  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:08:54.423174  | info     | Clear message sent to EEG.
+# 0:08:55.483762  | info     | Value: 35 sent to EEG.
+# 0:08:55.483804  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:08:55.487022  | info     | Clear message sent to EEG.
+# 0:08:57.044716  | info     | Value: 36 sent to EEG.
+# 0:08:57.044733  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:08:57.048000  | info     | Clear message sent to EEG.
+# 0:08:58.572645  | info     | Value: 37 sent to EEG.
+# 0:08:58.572701  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:08:58.575879  | info     | Clear message sent to EEG.
+# 0:09:00.602737  | info     | Value: 38 sent to EEG.
+# 0:09:00.602787  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:09:00.606012  | info     | Clear message sent to EEG.
+# 0:09:02.630321  | info     | Value: 39 sent to EEG.
+# 0:09:02.630378  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:09:02.633566  | info     | Clear message sent to EEG.
+# 0:09:04.845705  | info     | Value: 40 sent to EEG.
+# 0:09:04.845738  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:09:04.848958  | info     | Clear message sent to EEG.
+# 0:09:43.005063  | info     | Value: 41 sent to EEG.
+# 0:09:43.005090  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:09:43.008376  | info     | Clear message sent to EEG.
+# 0:09:44.525872  | info     | Value: 42 sent to EEG.
+# 0:09:44.525892  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:09:44.529015  | info     | Clear message sent to EEG.
+# 0:09:46.553564  | info     | Value: 43 sent to EEG.
+# 0:09:46.553618  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:09:46.556992  | info     | Clear message sent to EEG.
+# 0:09:48.581375  | info     | Value: 44 sent to EEG.
+# 0:09:48.581425  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:09:48.584804  | info     | Clear message sent to EEG.
+# 0:09:49.686714  | info     | Value: 45 sent to EEG.
+# 0:09:49.686752  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:09:49.689930  | info     | Clear message sent to EEG.
+# 0:09:51.120736  | info     | Value: 46 sent to EEG.
+# 0:09:51.120754  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:09:51.124031  | info     | Clear message sent to EEG.
+# 0:09:52.644002  | info     | Value: 47 sent to EEG.
+# 0:09:52.644036  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:09:52.647385  | info     | Clear message sent to EEG.
+# 0:09:54.664903  | info     | Value: 48 sent to EEG.
+# 0:09:54.664949  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:09:54.668131  | info     | Clear message sent to EEG.
+# 0:09:56.692432  | info     | Value: 49 sent to EEG.
+# 0:09:56.692489  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:09:56.695871  | info     | Clear message sent to EEG.
+# 0:09:57.469410  | info     | Value: 50 sent to EEG.
+# 0:09:57.469447  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:09:57.472784  | info     | Clear message sent to EEG.
+# 0:09:59.692441  | info     | Value: 51 sent to EEG.
+# 0:09:59.692458  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:09:59.695636  | info     | Clear message sent to EEG.
+# 0:10:01.213128  | info     | Value: 52 sent to EEG.
+# 0:10:01.213162  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:10:01.216505  | info     | Clear message sent to EEG.
+# 0:10:03.241255  | info     | Value: 53 sent to EEG.
+# 0:10:03.241313  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:10:03.244496  | info     | Clear message sent to EEG.
+# 0:10:05.269077  | info     | Value: 54 sent to EEG.
+# 0:10:05.269127  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:10:05.272515  | info     | Clear message sent to EEG.
+# 0:10:07.677140  | info     | Value: 55 sent to EEG.
+# 0:10:07.677161  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:10:07.680314  | info     | Clear message sent to EEG.
+# 0:10:09.428491  | info     | Value: 56 sent to EEG.
+# 0:10:09.428508  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:10:09.431685  | info     | Clear message sent to EEG.
+# 0:10:10.949203  | info     | Value: 57 sent to EEG.
+# 0:10:10.949228  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:10:10.952575  | info     | Clear message sent to EEG.
+# 0:10:12.970265  | info     | Value: 58 sent to EEG.
+# 0:10:12.970316  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:10:12.973534  | info     | Clear message sent to EEG.
+# 0:10:14.998018  | info     | Value: 59 sent to EEG.
+# 0:10:14.998071  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:10:15.001297  | info     | Clear message sent to EEG.
+# 0:10:16.324959  | info     | Value: 60 sent to EEG.
+# 0:10:16.324979  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:10:16.328291  | info     | Clear message sent to EEG.
+# 0:10:17.446820  | info     | Value: 1 sent to EEG.
+# 0:10:17.446836  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:10:17.450044  | info     | Clear message sent to EEG.
+# 0:10:18.970180  | info     | Value: 2 sent to EEG.
+# 0:10:18.970208  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:10:18.973418  | info     | Clear message sent to EEG.
+# 0:10:20.991026  | info     | Value: 3 sent to EEG.
+# 0:10:20.991078  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:10:20.994252  | info     | Clear message sent to EEG.
+# 0:10:23.016576  | info     | Value: 4 sent to EEG.
+# 0:10:23.016635  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:10:23.019822  | info     | Clear message sent to EEG.
+# 0:10:24.308739  | info     | Value: 5 sent to EEG.
+# 0:10:24.308774  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:10:24.311946  | info     | Clear message sent to EEG.
+# 0:10:25.782524  | info     | Value: 6 sent to EEG.
+# 0:10:25.782541  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:10:25.785750  | info     | Clear message sent to EEG.
+# 0:10:27.310641  | info     | Value: 7 sent to EEG.
+# 0:10:27.310687  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:10:27.313902  | info     | Clear message sent to EEG.
+# 0:10:29.331300  | info     | Value: 8 sent to EEG.
+# 0:10:29.331358  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:10:29.334540  | info     | Clear message sent to EEG.
+# 0:10:31.359099  | info     | Value: 9 sent to EEG.
+# 0:10:31.359151  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:10:31.362336  | info     | Clear message sent to EEG.
+# 0:10:33.530973  | info     | Value: 10 sent to EEG.
+# 0:10:33.531002  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:10:33.534195  | info     | Clear message sent to EEG.
+# 0:10:35.671363  | info     | Value: 11 sent to EEG.
+# 0:10:35.671379  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:10:35.674600  | info     | Clear message sent to EEG.
+# 0:10:37.192317  | info     | Value: 12 sent to EEG.
+# 0:10:37.192350  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:10:37.195689  | info     | Clear message sent to EEG.
+# 0:10:39.213248  | info     | Value: 13 sent to EEG.
+# 0:10:39.213305  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:10:39.216487  | info     | Clear message sent to EEG.
+# 0:10:41.241001  | info     | Value: 14 sent to EEG.
+# 0:10:41.241050  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:10:41.244439  | info     | Clear message sent to EEG.
+# 0:10:43.892192  | info     | Value: 15 sent to EEG.
+# 0:10:43.892214  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:10:43.895373  | info     | Clear message sent to EEG.
+# 0:10:45.935176  | info     | Value: 16 sent to EEG.
+# 0:10:45.935193  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:10:45.938408  | info     | Clear message sent to EEG.
+# 0:10:47.460411  | info     | Value: 17 sent to EEG.
+# 0:10:47.460423  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:10:47.463605  | info     | Clear message sent to EEG.
+# 0:10:49.483919  | info     | Value: 18 sent to EEG.
+# 0:10:49.483963  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:10:49.487152  | info     | Clear message sent to EEG.
+# 0:10:51.511596  | info     | Value: 19 sent to EEG.
+# 0:10:51.511644  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:10:51.515014  | info     | Clear message sent to EEG.
+# 0:10:52.714556  | info     | Value: 20 sent to EEG.
+# 0:10:52.714587  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:10:52.717801  | info     | Clear message sent to EEG.
+# 0:10:54.400419  | info     | Value: 21 sent to EEG.
+# 0:10:54.400436  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:10:54.403623  | info     | Clear message sent to EEG.
+# 0:10:55.921521  | info     | Value: 22 sent to EEG.
+# 0:10:55.921575  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:10:55.925010  | info     | Clear message sent to EEG.
+# 0:10:57.942218  | info     | Value: 23 sent to EEG.
+# 0:10:57.942275  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:10:57.945505  | info     | Clear message sent to EEG.
+# 0:10:59.967553  | info     | Value: 24 sent to EEG.
+# 0:10:59.967608  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:10:59.970955  | info     | Clear message sent to EEG.
+# 0:11:00.919803  | info     | Value: 25 sent to EEG.
+# 0:11:00.919849  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:11:00.923032  | info     | Clear message sent to EEG.
+# 0:11:03.053119  | info     | Value: 26 sent to EEG.
+# 0:11:03.053136  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:11:03.056408  | info     | Clear message sent to EEG.
+# 0:11:04.574056  | info     | Value: 27 sent to EEG.
+# 0:11:04.574083  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:11:04.577264  | info     | Clear message sent to EEG.
+# 0:11:06.594931  | info     | Value: 28 sent to EEG.
+# 0:11:06.594977  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:11:06.598208  | info     | Clear message sent to EEG.
+# 0:11:08.622758  | info     | Value: 29 sent to EEG.
+# 0:11:08.622808  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:11:08.626028  | info     | Clear message sent to EEG.
+# 0:11:09.850486  | info     | Value: 30 sent to EEG.
+# 0:11:09.850518  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:11:09.853685  | info     | Clear message sent to EEG.
+# 0:11:11.953435  | info     | Value: 31 sent to EEG.
+# 0:11:11.953462  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:11:11.956745  | info     | Clear message sent to EEG.
+# 0:11:13.476772  | info     | Value: 32 sent to EEG.
+# 0:11:13.476786  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:11:13.479968  | info     | Clear message sent to EEG.
+# 0:11:15.497615  | info     | Value: 33 sent to EEG.
+# 0:11:15.497672  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:11:15.501025  | info     | Clear message sent to EEG.
+# 0:11:17.525332  | info     | Value: 34 sent to EEG.
+# 0:11:17.525380  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:11:17.528762  | info     | Clear message sent to EEG.
+# 0:11:19.732857  | info     | Value: 35 sent to EEG.
+# 0:11:19.732900  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:11:19.736228  | info     | Clear message sent to EEG.
+# 0:11:21.342254  | info     | Value: 36 sent to EEG.
+# 0:11:21.342271  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:11:21.345483  | info     | Clear message sent to EEG.
+# 0:11:22.865540  | info     | Value: 37 sent to EEG.
+# 0:11:22.865573  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:11:22.868928  | info     | Clear message sent to EEG.
+# 0:11:24.886493  | info     | Value: 38 sent to EEG.
+# 0:11:24.886553  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:11:24.889793  | info     | Clear message sent to EEG.
+# 0:11:26.914063  | info     | Value: 39 sent to EEG.
+# 0:11:26.914121  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:11:26.917354  | info     | Clear message sent to EEG.
+# 0:11:29.412793  | info     | Value: 40 sent to EEG.
+# 0:11:29.412834  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:11:29.416018  | info     | Clear message sent to EEG.
+# 0:11:31.476494  | info     | Value: 41 sent to EEG.
+# 0:11:31.476511  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:11:31.479864  | info     | Clear message sent to EEG.
+# 0:11:32.997568  | info     | Value: 42 sent to EEG.
+# 0:11:32.997620  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:11:33.000930  | info     | Clear message sent to EEG.
+# 0:11:35.018366  | info     | Value: 43 sent to EEG.
+# 0:11:35.018419  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:11:35.021641  | info     | Clear message sent to EEG.
+# 0:11:37.046142  | info     | Value: 44 sent to EEG.
+# 0:11:37.046201  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:11:37.049436  | info     | Clear message sent to EEG.
+# 0:11:37.905873  | info     | Value: 45 sent to EEG.
+# 0:11:37.905914  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:11:37.909101  | info     | Clear message sent to EEG.
+# 0:11:39.515943  | info     | Value: 46 sent to EEG.
+# 0:11:39.515975  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:11:39.519138  | info     | Clear message sent to EEG.
+# 0:11:41.039270  | info     | Value: 47 sent to EEG.
+# 0:11:41.039313  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:11:41.042479  | info     | Clear message sent to EEG.
+# 0:11:43.060041  | info     | Value: 48 sent to EEG.
+# 0:11:43.060092  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:11:43.063273  | info     | Clear message sent to EEG.
+# 0:11:45.085331  | info     | Value: 49 sent to EEG.
+# 0:11:45.085384  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:11:45.088563  | info     | Clear message sent to EEG.
+# 0:11:46.016724  | info     | Value: 50 sent to EEG.
+# 0:11:46.016765  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:11:46.020041  | info     | Clear message sent to EEG.
+# 0:11:48.254219  | info     | Value: 51 sent to EEG.
+# 0:11:48.254236  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:11:48.257427  | info     | Clear message sent to EEG.
+# 0:11:49.775207  | info     | Value: 52 sent to EEG.
+# 0:11:49.775236  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:11:49.778400  | info     | Clear message sent to EEG.
+# 0:11:51.796046  | info     | Value: 53 sent to EEG.
+# 0:11:51.796104  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:11:51.799284  | info     | Clear message sent to EEG.
+# 0:11:53.823683  | info     | Value: 54 sent to EEG.
+# 0:11:53.823733  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:11:53.827105  | info     | Clear message sent to EEG.
+# 0:11:55.526075  | info     | Value: 55 sent to EEG.
+# 0:11:55.526091  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:11:55.529293  | info     | Clear message sent to EEG.
+# 0:11:56.747239  | info     | Value: 56 sent to EEG.
+# 0:11:56.747255  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:11:56.750462  | info     | Clear message sent to EEG.
+# 0:11:58.268209  | info     | Value: 57 sent to EEG.
+# 0:11:58.268234  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:11:58.271397  | info     | Clear message sent to EEG.
+# 0:12:00.289153  | info     | Value: 58 sent to EEG.
+# 0:12:00.289209  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:12:00.292586  | info     | Clear message sent to EEG.
+# 0:12:02.316631  | info     | Value: 59 sent to EEG.
+# 0:12:02.316704  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:12:02.320079  | info     | Clear message sent to EEG.
+# 0:12:03.316357  | info     | Value: 60 sent to EEG.
+# 0:12:03.316399  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:12:03.319774  | info     | Clear message sent to EEG.
+# 0:12:05.281780  | info     | Value: 1 sent to EEG.
+# 0:12:05.281806  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:12:05.284926  | info     | Clear message sent to EEG.
+# 0:12:06.809981  | info     | Value: 2 sent to EEG.
+# 0:12:06.810032  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:12:06.813248  | info     | Clear message sent to EEG.
+# 0:12:08.830682  | info     | Value: 3 sent to EEG.
+# 0:12:08.830740  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:12:08.833915  | info     | Clear message sent to EEG.
+# 0:12:10.856193  | info     | Value: 4 sent to EEG.
+# 0:12:10.856241  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:12:10.859486  | info     | Clear message sent to EEG.
+# 0:12:12.872080  | info     | Value: 5 sent to EEG.
+# 0:12:12.872124  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:12:12.875311  | info     | Clear message sent to EEG.
+# 0:12:15.163793  | info     | Value: 6 sent to EEG.
+# 0:12:15.163809  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:12:15.167140  | info     | Clear message sent to EEG.
+# 0:12:16.684488  | info     | Value: 7 sent to EEG.
+# 0:12:16.684516  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:12:16.687849  | info     | Clear message sent to EEG.
+# 0:12:18.705513  | info     | Value: 8 sent to EEG.
+# 0:12:18.705561  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:12:18.708991  | info     | Clear message sent to EEG.
+# 0:12:20.733363  | info     | Value: 9 sent to EEG.
+# 0:12:20.733416  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:12:20.736605  | info     | Clear message sent to EEG.
+# 0:12:22.263798  | info     | Value: 10 sent to EEG.
+# 0:12:22.263829  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:12:22.267043  | info     | Clear message sent to EEG.
+# 0:12:24.314188  | info     | Value: 11 sent to EEG.
+# 0:12:24.314204  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:12:24.317366  | info     | Clear message sent to EEG.
+# 0:12:25.837388  | info     | Value: 12 sent to EEG.
+# 0:12:25.837421  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:12:25.840790  | info     | Clear message sent to EEG.
+# 0:12:27.858324  | info     | Value: 13 sent to EEG.
+# 0:12:27.858380  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:12:27.861612  | info     | Clear message sent to EEG.
+# 0:12:29.885883  | info     | Value: 14 sent to EEG.
+# 0:12:29.885940  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:12:29.889125  | info     | Clear message sent to EEG.
+# 0:12:30.995705  | info     | Value: 15 sent to EEG.
+# 0:12:30.995740  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:12:30.998965  | info     | Clear message sent to EEG.
+# 0:12:32.608129  | info     | Value: 16 sent to EEG.
+# 0:12:32.608145  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:12:32.611291  | info     | Clear message sent to EEG.
+# 0:12:34.129250  | info     | Value: 17 sent to EEG.
+# 0:12:34.129288  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:12:34.132663  | info     | Clear message sent to EEG.
+# 0:12:36.149916  | info     | Value: 18 sent to EEG.
+# 0:12:36.149963  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:12:36.153165  | info     | Clear message sent to EEG.
+# 0:12:38.175291  | info     | Value: 19 sent to EEG.
+# 0:12:38.175340  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:12:38.178701  | info     | Clear message sent to EEG.
+# 0:12:39.308754  | info     | Value: 20 sent to EEG.
+# 0:12:39.308787  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:12:39.312071  | info     | Clear message sent to EEG.
+# 0:12:40.517717  | info     | Value: 21 sent to EEG.
+# 0:12:40.517734  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:12:40.520978  | info     | Clear message sent to EEG.
+# 0:12:42.038747  | info     | Value: 22 sent to EEG.
+# 0:12:42.038782  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:12:42.041946  | info     | Clear message sent to EEG.
+# 0:12:44.059655  | info     | Value: 23 sent to EEG.
+# 0:12:44.059705  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:12:44.062881  | info     | Clear message sent to EEG.
+# 0:12:46.087430  | info     | Value: 24 sent to EEG.
+# 0:12:46.087479  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:12:46.090669  | info     | Clear message sent to EEG.
+# 0:12:47.322474  | info     | Value: 25 sent to EEG.
+# 0:12:47.322517  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:12:47.325740  | info     | Clear message sent to EEG.
+# 0:12:49.191551  | info     | Value: 26 sent to EEG.
+# 0:12:49.191609  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:12:49.194839  | info     | Clear message sent to EEG.
+# 0:12:50.719369  | info     | Value: 27 sent to EEG.
+# 0:12:50.719400  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:12:50.722581  | info     | Clear message sent to EEG.
+# 0:12:52.740163  | info     | Value: 28 sent to EEG.
+# 0:12:52.740212  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:12:52.743416  | info     | Clear message sent to EEG.
+# 0:12:54.767664  | info     | Value: 29 sent to EEG.
+# 0:12:54.767718  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:12:54.770908  | info     | Clear message sent to EEG.
+# 0:12:56.451011  | info     | Value: 30 sent to EEG.
+# 0:12:56.451048  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:12:56.454239  | info     | Clear message sent to EEG.
+# 0:12:58.073042  | info     | Value: 31 sent to EEG.
+# 0:12:58.073068  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:12:58.076240  | info     | Clear message sent to EEG.
+# 0:12:59.594144  | info     | Value: 32 sent to EEG.
+# 0:12:59.594172  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:12:59.597354  | info     | Clear message sent to EEG.
+# 0:13:01.615029  | info     | Value: 33 sent to EEG.
+# 0:13:01.615065  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:13:01.618235  | info     | Clear message sent to EEG.
+# 0:13:03.642830  | info     | Value: 34 sent to EEG.
+# 0:13:03.642889  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:13:03.646115  | info     | Clear message sent to EEG.
+# 0:13:09.663529  | info     | Value: 35 sent to EEG.
+# 0:13:09.663561  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:13:09.666765  | info     | Clear message sent to EEG.
+# 0:13:11.184479  | info     | Value: 36 sent to EEG.
+# 0:13:11.184512  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:13:11.187671  | info     | Clear message sent to EEG.
+# 0:13:13.212245  | info     | Value: 37 sent to EEG.
+# 0:13:13.212296  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:13:13.215480  | info     | Clear message sent to EEG.
+# 0:13:15.239832  | info     | Value: 38 sent to EEG.
+# 0:13:15.239879  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:13:15.243254  | info     | Clear message sent to EEG.
+# 0:13:16.179901  | info     | Value: 39 sent to EEG.
+# 0:13:16.179934  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:13:16.183272  | info     | Clear message sent to EEG.
+# 0:13:17.462014  | info     | Value: 40 sent to EEG.
+# 0:13:17.462045  | info     | send_trigger() run with params trigger_type=fix_point, info=None, with_delay=True
+# 0:13:17.465256  | info     | Clear message sent to EEG.
+# 0:13:18.983111  | info     | Value: 41 sent to EEG.
+# 0:13:18.983159  | info     | send_trigger() run with params trigger_type=matrix_1, info=None, with_delay=True
+# 0:13:18.986381  | info     | Clear message sent to EEG.
+# 0:13:21.003794  | info     | Value: 42 sent to EEG.
+# 0:13:21.003838  | info     | send_trigger() run with params trigger_type=mask, info=None, with_delay=True
+# 0:13:21.007014  | info     | Clear message sent to EEG.
+# 0:13:23.029368  | info     | Value: 43 sent to EEG.
+# 0:13:23.029426  | info     | send_trigger() run with params trigger_type=matrix_2, info=None, with_delay=True
+# 0:13:23.032610  | info     | Clear message sent to EEG.
+# 0:13:23.970117  | info     | Value: 44 sent to EEG.
+# 0:13:23.970152  | info     | send_trigger() run with params trigger_type=answer, info=None, with_delay=True
+# 0:13:23.973357  | info     | Clear message sent to EEG.
